@@ -1,0 +1,2 @@
+# SimpleDnsCrypt-master
+SimpleDnsCrypt
